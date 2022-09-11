@@ -35,4 +35,8 @@ private class Item {
     public double setQuantity(int quantity) {
         this.quantity = quantity;
     }
+    
+    public String toString() {
+        return this.name + ": " + this.price + " ("+this.quantity+")";
+    }
 }
