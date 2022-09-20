@@ -27,7 +27,7 @@ Every withdrawal is charged a fixed interest rate of 2%.
 **TRANSACTION**\
 An account transaction can be: WITHDRAW or DEPOSIT.\
 Every transaction has an id, amount, and timestamp.\
-Transactions must be sorted based on timestamp.\ 
+Transactions must be sorted based on timestamp.\
 A transaction's timestamp must display to the user as a readable date.
 
 **BANK**\
